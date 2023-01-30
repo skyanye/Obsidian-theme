@@ -1,3 +1,3 @@
 # Obsidian-theme
 
-This css file is modified by Dracula Official(https://gitlab.com/chrismettal)
+This css file is modified by [Dracula Official](https://gitlab.com/chrismettal)
